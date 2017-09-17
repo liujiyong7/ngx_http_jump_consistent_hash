@@ -23,6 +23,6 @@ jump_consistent_hash
 ```
 upstream test_consistent {
 	jump_consistent_hash $request_uri;
-
+	server test.com;
 }
 ```
