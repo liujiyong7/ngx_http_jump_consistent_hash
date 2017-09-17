@@ -15,6 +15,7 @@ jump_consistent_hash
 **syntax:** *jump_consistent_hash $variable*
 
 **context:** *upstream*
+
 在upstream上下文中，使用 jump_consistent_hash 指令，即可打开jump consistent功能
 
 示例
